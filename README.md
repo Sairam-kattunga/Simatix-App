@@ -43,7 +43,10 @@ Simatix is a full-stack mobile application designed to bridge the communication 
 🖼️ Screenshots
 
 ![1](https://github.com/user-attachments/assets/74e0dc39-de31-476f-8721-5dcdcf401cb9)
-
+![2](https://github.com/user-attachments/assets/ff3f2adb-0a2e-4d3e-a2cb-3bd63a34cbd2)
+![3](https://github.com/user-attachments/assets/954fb781-5b20-4d22-ad16-145cffe80cb0)
+![4](https://github.com/user-attachments/assets/8c1c8329-0d64-4610-9928-84f3cf5a82d1)
+![5](https://github.com/user-attachments/assets/81544715-aa06-4bb2-ab43-20d8d5f4a74c)
 
 
 ---
