@@ -1,4 +1,4 @@
-📱 Simatix – College Connect App
+# 📱 Simatix – College Connect App
 
 **A smart student-faculty engagement app built with Flutter and Firebase, aimed at transforming the way students interact with academic staff.**
 
@@ -6,13 +6,13 @@
 
 ---
 
-📌 Overview
+## 📌 Overview
 
 Simatix is a full-stack mobile application designed to bridge the communication gap between students and faculty. The app enables students to rate faculty, provide anonymous feedback, and receive important updates through push notifications — all in real-time.
 
 ---
 
-🛠 Tech Stack
+## 🛠 Tech Stack
 
 | Tech         | Purpose                                     |
 |--------------|----------------------------------------------|
@@ -21,7 +21,7 @@ Simatix is a full-stack mobile application designed to bridge the communication 
 
 ---
 
-🚀 Badges
+## 🚀 Badges
 
 ![Build](https://img.shields.io/badge/build-passing-brightgreen)
 ![Platform](https://img.shields.io/badge/platform-Android%20%7C%20iOS-blue)
@@ -29,7 +29,7 @@ Simatix is a full-stack mobile application designed to bridge the communication 
 
 ---
 
-🎯 Key Features
+## 🎯 Key Features
 
 - 🔄 **Real-Time Feedback**: Submit anonymous reviews and ratings for faculty.
 - 🧑‍🏫 **Faculty Profiles**: View faculty details and their average ratings.
@@ -40,18 +40,19 @@ Simatix is a full-stack mobile application designed to bridge the communication 
 
 ---
 
-🖼️ Screenshots
+## 🖼️ Screenshots
 
-![1](https://github.com/user-attachments/assets/74e0dc39-de31-476f-8721-5dcdcf401cb9)
-![2](https://github.com/user-attachments/assets/ff3f2adb-0a2e-4d3e-a2cb-3bd63a34cbd2)
-![3](https://github.com/user-attachments/assets/954fb781-5b20-4d22-ad16-145cffe80cb0)
-![4](https://github.com/user-attachments/assets/8c1c8329-0d64-4610-9928-84f3cf5a82d1)
-![5](https://github.com/user-attachments/assets/81544715-aa06-4bb2-ab43-20d8d5f4a74c)
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/74e0dc39-de31-476f-8721-5dcdcf401cb9" width="200" />
+  <img src="https://github.com/user-attachments/assets/ff3f2adb-0a2e-4d3e-a2cb-3bd63a34cbd2" width="200" />
+  <img src="https://github.com/user-attachments/assets/954fb781-5b20-4d22-ad16-145cffe80cb0" width="200" />
+  <img src="https://github.com/user-attachments/assets/8c1c8329-0d64-4610-9928-84f3cf5a82d1" width="200" />
+  <img src="https://github.com/user-attachments/assets/81544715-aa06-4bb2-ab43-20d8d5f4a74c" width="200" />
+</p>
 
 ---
 
-📂 Project Structure
+## 📂 Project Structure
 
 ```
 Simatix/
@@ -75,7 +76,7 @@ Simatix/
 
 ---
 
-📆 Future Enhancements
+## 📆 Future Enhancements
 
 - 📈 Dashboard for faculty to view feedback trends
 - 📬 In-app messaging between students and faculty
@@ -85,7 +86,7 @@ Simatix/
 
 ---
 
-🧠 Learnings
+## 🧠 Learnings
 
 - State management in Flutter using **Provider**
 - Firebase Firestore CRUD and real-time updates
@@ -95,7 +96,7 @@ Simatix/
 
 ---
 
-🤝 Contributing
+## 🤝 Contributing
 
 Contributions are always welcome! ✨
 
@@ -107,20 +108,21 @@ Contributions are always welcome! ✨
 
 ---
 
-📜 License
+## 📜 License
 
 Distributed under the MIT License. See [`LICENSE`](LICENSE) for more information.
 
 ---
 
-🙋‍♂️ Author
+## 🙋‍♂️ Author
 
-K. R. V. M. Sairam Kattunga 
-🌐 [Portfolio](https://simple-portfolio-sigma-orpin.vercel.app/)  
-📫 [sairamkattunga333@gmail.com](mailto:sairamkattunga333@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/sairamkrvm123/)  
-💻 [GitHub](https://github.com/Sairam-kattunga/Simatix-App)
+**K. R. V. M. Sairam Kattunga**
+
+[![Portfolio](https://img.shields.io/badge/portfolio-visit-orange?style=for-the-badge&logo=internet-explorer)](https://simple-portfolio-sigma-orpin.vercel.app/)
+[![Email](https://img.shields.io/badge/email-sairamkattunga333%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:sairamkattunga333@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sairamkrvm123/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/Sairam-kattunga/Simatix-App)
 
 ---
 
-Feel free to ⭐️ this repo if you found it helpful!
+> Feel free to ⭐️ this repo if you found it helpful!
